@@ -1,0 +1,9 @@
+html, body {
+  margin: 20px;
+}
+
+// should import addon-with-styles/addon/styles/styles.scss
+@import 'addon-with-styles/styles';
+
+// should import addon-with-styles/app/styles/addon-with-sass.scss
+@import 'addon-with-sass':
